@@ -1,16 +1,15 @@
-## Hi there 👋
+## Привет, меня зовут Мария Кондаурова
 
-<!--
-**Momomash/Momomash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я руковожу группой разработки интерфейсов в Департаменте Вычислительной Биологии в BIOCAD. 
 
-Here are some ideas to get you started:
+Также я участвую в организации [SPB Frontend](https://spb-frontend.ru/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Скорее всего вы сюда зашли, так как были на моем выступлении или смотрели его в записи. Спасибо ❤️
+
+## Мои выступления: 
+
+[![Как строку букв превратить в боль для разработчика, или Интерфейсы в биотехе](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ozHEtI1qrX4?si=ONkb-zSLzp8OChIz)
+
+
+
+https://youtu.be/_RlnVSdjVLA?si=uv5h8_CSZT7nHrIr
