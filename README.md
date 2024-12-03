@@ -8,7 +8,7 @@
 
 ## Мои выступления: 
 
-[![Как строку букв превратить в боль для разработчика, или Интерфейсы в биотехе](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ozHEtI1qrX4?si=ONkb-zSLzp8OChIz)
+[![Как строку букв превратить в боль для разработчика, или Интерфейсы в биотехе](./assets/img/4.png)](https://youtu.be/ozHEtI1qrX4?si=ONkb-zSLzp8OChIz)
 
 
 
